@@ -1,0 +1,12 @@
+# Site settings
+title: Lorenzolike26's castle
+email: lilesmth@gmail.com
+description: "请安顿好马匹，随我入城"
+baseurl: ""
+url: "http://ifgladlee.github.com"
+#twitter_username: ifgladlee
+github_username:  ifgladlee
+
+# Build settings
+markdown: kramdown
+permalink: pretty
